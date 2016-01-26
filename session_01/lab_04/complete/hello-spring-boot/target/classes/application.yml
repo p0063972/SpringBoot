@@ -1,0 +1,18 @@
+greeting: Hello
+
+info:
+  build:
+    artifact: hello-spring-boot-04
+    name: hello-spring-boot
+    description: Hello Spring Boot
+    version: 0.0.1-SNAPSHOT
+
+endpoints:
+     health:
+        sensitive: false
+---
+
+spring:
+  profiles: test
+
+greeting: test

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/css" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/fonts" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/images" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/index.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/lang" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/lib" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/o2c.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/swagger-ui.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/swagger-ui.min.js" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
